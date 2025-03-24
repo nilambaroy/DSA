@@ -1,7 +1,7 @@
 class Solution {
     #define pii pair<int,int>
 public:
-    //nilambaroy
+    //nilambar
     int countDays(int days, vector<vector<int>>& meetings) {
         vector<pii> time;
         for(auto& meeting: meetings){
